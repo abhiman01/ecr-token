@@ -1,2 +1,2 @@
 # ecr-token
-Sample Repository to create ethereum based ECR20 contracts
+Sample Repository to create ethereum based ECR20 tokens
